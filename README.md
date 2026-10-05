@@ -36,6 +36,7 @@ I am a Software Engineering student with a background in financial systems and s
 #### Cloud, Infrastructure & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,9 +59,9 @@ I am a Software Engineering student with a background in financial systems and s
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Asset Liquidation API** | Financial asset liquidation system featuring REST APIs and asynchronous workers. | C#, .NET 8, EF Core |
-| **Raycasting Engine** | Pseudo-3D graphics rendering engine using Digital Differential Analysis (DDA). | C, MiniLibX |
-| **Inception** | Infrastructure virtualization setup with multi-container orchestration. | Docker, Docker Compose, Alpine |
+| **Asset Liquidation API** | Financial asset liquidation system featuring REST APIs and asynchronous workers. | C#, .NET 8, EF Core, PostgreSQL|
+| **cub3D** | Pseudo-3D graphics rendering engine using Raycasting technique and Digital Differential Analysis (DDA). | C, MiniLibX |
+| **minishell** | Asynchronous UNIX shell implementation featuring command parsing, environment variable expansion, pipelines, redirections, and signal handling. | C, Readline |
 
 ---
 
