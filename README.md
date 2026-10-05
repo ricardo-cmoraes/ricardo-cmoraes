@@ -55,6 +55,10 @@ My foundation spans low-level C/C++ programming, modern backend architectures (.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)
 
+#### Certifications & Badges
+![Scrum.org PSPO I](https://img.shields.io/badge/PSPO_I-Professional_Scrum_Product_Owner-0052CC?style=for-the-badge&logo=scrum.org&logoColor=white)
+![Google Cloud Gen AI](https://img.shields.io/badge/Generative_AI-Learning_Path-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 ---
 
 ### 🚀 Highlighted Projects
