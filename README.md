@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 **Software Engineer in development, focused on building solutions for complex challenges.**
 
-I am a Software Engineering student with a background in financial systems and securitization, transitioning into core software and systems engineering. My focus spans low-level programming (C/C++), containerization, and modern backend architectures (.NET / C#).
+I am a Mechanical Engineer and Electronics Technician transitioning into core software and systems engineering, with a strong background in financial systems, securitization, and workflow automation. 
+
+My foundation spans low-level C/C++ programming, modern backend architectures (.NET / C#), databases, and cloud infrastructure. Having built predictive Machine Learning models (Logistic Regression in R/Python) and led multidisciplinary engineering teams (Baja Captain), I bring a strong problem-solving mindset aimed at understanding how systems work under the hood and optimizing complex processes.
 
 ---
 
